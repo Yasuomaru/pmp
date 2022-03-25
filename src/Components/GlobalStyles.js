@@ -19,7 +19,7 @@ const globalStyles = globalCss({
   
   body: {
     minHeight: "100vh",
-    color: "red",
+    color: "white",
     backgroundColor: "rgba(30,30,30,0.9)",
     display: "flex",
     flexDirection: "column",
